@@ -1,15 +1,15 @@
 absl-py==0.13.0
-alabaster @ file:///home/ktietz/src/ci/alabaster_1611921544520/work
-anaconda-client==1.7.2
-anaconda-navigator==2.0.3
-anaconda-project @ file:///tmp/build/80754af9/anaconda-project_1610472525955/work
-anyio @ file:///C:/ci/anyio_1620153418380/work/dist
+alabaster 
+anaconda-client
+anaconda-navigator
+anaconda-project 
+anyio 
 appdirs==1.4.4
 argh==0.26.2
-argon2-cffi @ file:///C:/ci/argon2-cffi_1613037959010/work
-asn1crypto @ file:///tmp/build/80754af9/asn1crypto_1596577642040/work
-astroid @ file:///C:/ci/astroid_1613501047216/work
-astropy @ file:///C:/ci/astropy_1617745647203/work
+argon2-cffi 
+asn1crypto 
+astroid 
+astropy  
 astunparse==1.6.3
 async-generator @ file:///home/ktietz/src/ci/async_generator_1611927993394/work
 atomicwrites==1.4.0
