@@ -22,7 +22,7 @@ google-pasta
 grpcio
 h5py
 idna
-importlib-metadata
+importlib-metadata==3.10.0
 ipykernel
 ipython
 ipython-genutils
