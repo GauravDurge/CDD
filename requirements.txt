@@ -43,6 +43,7 @@ lxml
 Markdown
 MarkupSafe
 matplotlib
+metadata
 mistune
 nbconvert
 nbformat
