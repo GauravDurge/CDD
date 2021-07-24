@@ -1,8 +1,5 @@
 absl-py
-astunparse
 attrs
-backcall
-bleach
 cachetools
 certifi
 chardet
@@ -14,13 +11,13 @@ defusedxml
 entrypoints
 Flask
 Flask-Cors
-gast
+gast==0.4.0
 geojson
 google-auth
 google-auth-oauthlib
 google-pasta
-grpcio
-h5py
+grpcio==1.34.0
+h5py==3.1.0
 idna
 importlib-metadata==3.10.0
 ipykernel
@@ -33,10 +30,6 @@ Jinja2
 joblib
 jsonify
 jsonschema
-jupyter
-jupyter-client
-jupyter-console
-jupyter-core
 Keras-Preprocessing
 kiwisolver
 lxml
@@ -47,7 +40,7 @@ mistune
 nbconvert
 nbformat
 notebook
-numpy
+numpy==1.19.2
 oauthlib
 opencv-python
 opt-einsum
@@ -82,7 +75,7 @@ scikit-learn
 scipy
 seaborn
 Send2Trash
-six
+six==1.15.0
 sklearn
 tensorboard
 tensorboard-plugin-wit
