@@ -79,7 +79,7 @@ six==1.15.0
 sklearn
 tensorboard
 tensorboard-plugin-wit
-tensorflow
+tensorflow-cpu
 tensorflow-estimator
 termcolor
 terminado
