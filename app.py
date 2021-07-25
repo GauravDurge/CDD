@@ -29,7 +29,7 @@ app = Flask(__name__)
 MODEL_PATH ='model_inception.h5'
 
 # Load your trained model
-model = load_model(MODEL_PATH)
+model = load_model(model_inception.h5)
 
 
 
