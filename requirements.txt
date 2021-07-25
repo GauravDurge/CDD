@@ -40,7 +40,7 @@ mistune
 nbconvert
 nbformat
 notebook
-numpy==1.19.2
+numpy==1.19.3
 oauthlib
 opencv-python
 opt-einsum
